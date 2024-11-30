@@ -1,0 +1,14 @@
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\bin\Debug\net9.0\matchGame.exe
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\bin\Debug\net9.0\matchGame.deps.json
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\bin\Debug\net9.0\matchGame.runtimeconfig.json
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\bin\Debug\net9.0\matchGame.dll
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\bin\Debug\net9.0\matchGame.pdb
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\obj\Debug\net9.0\matchGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\obj\Debug\net9.0\matchGame.AssemblyInfoInputs.cache
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\obj\Debug\net9.0\matchGame.AssemblyInfo.cs
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\obj\Debug\net9.0\matchGame.csproj.CoreCompileInputs.cache
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\obj\Debug\net9.0\matchGame.dll
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\obj\Debug\net9.0\refint\matchGame.dll
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\obj\Debug\net9.0\matchGame.pdb
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\obj\Debug\net9.0\matchGame.genruntimeconfig.cache
+C:\Users\thoma\esercizi\gioco dei fiammiferi\match game c#\obj\Debug\net9.0\ref\matchGame.dll
